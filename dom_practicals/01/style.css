@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    font-family: monospace;
+    margin: 20PX;
+    border: 5px dashed black;
+}
+.head{
+    font-size: 70px;
+    color: white;
+}
+.para{
+    font-size: 30px;
+    color: white;
+}
+.count{
+    color: blue;
+    font-size: 30px;
+}
+.counter{
+    color: red;
+}
